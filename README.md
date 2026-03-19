@@ -1,40 +1,24 @@
-<div align="center" width="50">
+# 💫 About Me
+I am looking forward to learning cybersecurity and building secure web applications.
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br> 
+## 🌐 Socials
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahuman741421@gmail.com)
 
-<h1>Hi 👋 I'm Ahmed</h1>
-<h3>Backend Developer | Python & Django</h3>
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
-
-<hr>
-
-## 👨‍💻 About Me
-أنا أحمد، مطور Backend متخصص في استخدام Python و Django لبناء تطبيقات ويب قوية وقابلة للتوسع.  
-أهتم بإنشاء APIs احترافية، والتعامل مع قواعد البيانات، وكتابة كود نظيف ومنظم.
-
----
-
-## 🚀 Skills
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/API-FF6F00?style=flat&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-07405E?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Ahmed-CDE&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ahmed-CDE&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-CDE&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-## ⚙️ Tools I Use
-```python
-class AboutMe:
-    def __init__(self):
-        self.name = "Ahmed"
-        self.role = "Backend Developer"
-        self.stack = {
-            "language": ["Python"],
-            "framework": ["Django"],
-            "database": ["SQLite", "PostgreSQL"],
-            "tools": ["Git", "GitHub", "VS Code"],
-        }
+[![](https://visitcount.itsvg.in/api?id=Ahmed-CDE&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
